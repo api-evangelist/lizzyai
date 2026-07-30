@@ -1,7 +1,15 @@
 aid: lizzyai
 name: Lizzyai
-description: Lizzyai is a company surfaced as a portfolio company of speedinvest and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Lizzy is a generative-AI platform for legal professionals, delivering a secure Gen
+  AI workspace across all practice areas through both a web application and a Microsoft
+  Word/Outlook add-in. It supports contract drafting, review, analysis, and proofreading,
+  customizable legal workflows and playbooks, in-document citations, redlining and
+  track-changes, and the handling of long, scanned, watermarked, and multiple documents.
+  A multi-LLM approach routes each task to the most capable model, and firms can train
+  a private model that embeds their own know-how. Built for enterprise IT with a zero-trust
+  architecture, no training on customer data, PII anonymization, SSO via SAML and OAuth
+  2.0, and shared, VPC, or self-hosted deployment options.
 url: https://raw.githubusercontent.com/api-evangelist/lizzyai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +17,68 @@ x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
+image: https://lizzyai.com/images/preview.png
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Legal
+- Legal AI
+- Generative AI
+- Artificial Intelligence
+- Legal Technology
+- Document Management
+- Contract Review
+- SaaS
 apis: []
+common:
+- type: DomainSecurity
+  url: security/lizzyai-domain-security.yml
+- type: Website
+  url: https://lizzyai.com/
+- type: SignUp
+  url: https://app.lizzyai.com
+- type: Login
+  url: https://app.lizzyai.com
+- type: Pricing
+  url: https://lizzyai.com/pricing
+- type: Blog
+  url: https://lizzyai.com/blog
+- type: Documentation
+  url: https://lizzyai.com/guides/manual.pdf
+- type: Support
+  url: https://lizzyai.com/contact
+- type: FAQ
+  url: https://lizzyai.com/faq
+- type: TermsOfService
+  url: https://lizzyai.com/terms
+- type: PrivacyPolicy
+  url: https://lizzyai.com/privacy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/lizzyai
+- type: Twitter
+  url: https://x.com/lizzyaicom
+- type: YouTube
+  url: https://www.youtube.com/channel/UChCtHnYgOUw-XXwwOk_7vNA
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
