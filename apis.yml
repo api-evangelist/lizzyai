@@ -49,8 +49,8 @@ tags:
 - Legal AI
 - Generative AI
 - Artificial Intelligence
-- Legal Technology
-- Document-Management
+- Legal Tech
+- Document Management
 - Contract Review
 - Software-as-a-Service
 tags_raw:
@@ -63,6 +63,7 @@ tags_raw:
 - Document Management
 - Contract Review
 - SaaS
+- Document-Management
 apis: []
 common:
 - type: DomainSecurity
