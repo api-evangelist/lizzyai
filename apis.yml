@@ -66,6 +66,8 @@ tags_raw:
 - Document-Management
 apis: []
 common:
+- type: Plans
+  url: plans/lizzyai-plans-pricing.yml
 - type: DomainSecurity
   url: security/lizzyai-domain-security.yml
 - type: Website
