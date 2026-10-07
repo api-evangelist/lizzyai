@@ -1,0 +1,53 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://lizzyai.com/pricing
+sources:
+- https://lizzyai.com/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed+licensed
+  method: page
+  read: '2026-10-07'
+  evidence: Self hosting options
+  managed_tier: Pro
+published: true
+note: Per-user monthly pricing for legal AI product with token allowances; annual commitment saves 20%.
+  Enterprise mentions self hosting options but no separate price.
+plan_count: 4
+currency: USD
+plans:
+- name: Pro
+  price_text: $40 month/user
+  price: 40
+  currency: USD
+  period: month
+  unit: user
+  included_quota: 7m tokens/month/user
+  overage: Add tokens anytime .
+- name: Team
+  price_text: $50 month/user (minimum $250/month)
+  currency: USD
+  period: month
+  unit: user
+  included_quota: 7m tokens/month/user
+  overage: Add tokens anytime .
+- name: Organization
+  price_text: $60 month/user (minimum $1,000/month)
+  currency: USD
+  period: month
+  unit: user
+  included_quota: 7m tokens/month/user
+  overage: Add tokens anytime .
+- name: Enterprise
+  price_text: $70 month/user (minimum $5,000/month)
+  currency: USD
+  period: month
+  unit: user
+  included_quota: 7m tokens/month/user
+  overage: Add tokens anytime .
