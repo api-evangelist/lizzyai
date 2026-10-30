@@ -64,6 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lizzyai is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Lizzy is a generative-AI platform for legal professionals, delivering a secure Gen AI workspace across all practice areas through both a web application and a Microsoft Word/Outlook add-in. It supports contract drafting, review, analysis, and proofreading, customizable legal workflows and playbooks, in-document citations, redlining and track-changes, and the handling of long, scanned, watermarked, and multiple documents. A multi-LLM approach routes each task to the most capable model, and firms can train a private model that embeds their own know-how. Built for enterprise IT with a zero-trust architecture, no training on customer data, PII anonymization, SSO via SAML and OAuth 2.0, and shared, VPC, or self-hosted deployment options.
 
-Backed by: speedinvest
+**Areas:** Company · Legal · Legal AI · Generative AI · Artificial Intelligence · Legal Tech · Document Management · Contract Review · Software-as-a-Service
+
+## Lizzyai on APIs.io
+
+Everything profiled for Lizzyai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lizzyai/](https://apis.io/providers/lizzyai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lizzyai Domain Security](https://apis.io/security/lizzyai/lizzyai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Lizzyai Plans Pricing](https://apis.io/plans/lizzyai/lizzyai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lizzyai.com/)
+- [Documentation](https://lizzyai.com/guides/manual.pdf)
+- [Pricing](https://lizzyai.com/pricing)
+- [Sign up](https://app.lizzyai.com)
+- [Support](https://lizzyai.com/contact)
+- [Blog](https://lizzyai.com/blog)
+- [Terms of service](https://lizzyai.com/terms)
+- [Privacy policy](https://lizzyai.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 20.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 63.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lizzyai/](https://apis.io/providers/lizzyai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lizzyai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lizzyai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
